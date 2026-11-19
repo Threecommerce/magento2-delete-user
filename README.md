@@ -4,7 +4,7 @@ Lets customers **delete their own account** from the **My Account** area, next t
 
 ![Delete Account page in My Account with irreversibility warning and confirmation](images/delete-account-page.png)
 
-**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4+ · Mage-OS · PHP 8.1 – 8.4 · Themes: Luma, Hyvä, Breeze
+**Compatibility:** Magento Open Source / Adobe Commerce 2.4.4+ · Mage-OS · PHP 8.1 – 8.5 · Themes: Luma, Hyvä, Breeze
 **License:** commercial · coming soon
 
 ## Features
@@ -23,7 +23,7 @@ Lets customers **delete their own account** from the **My Account** area, next t
 ## Requirements
 
 - Magento Open Source / Adobe Commerce 2.4.4+ or Mage-OS
-- PHP 8.1 – 8.4
+- PHP 8.1 – 8.5
 
 ## Availability
 
